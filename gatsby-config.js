@@ -23,7 +23,7 @@ module.exports = {
         isSearchEnabled: true,
         repository: {
           baseUrl: 'https://github.com/vbudi000/cloudpak8s',
-          subDirectory: '/packages/example',
+          subDirectory: '',
         },
       },
     },
