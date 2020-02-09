@@ -1,4 +1,0 @@
-# resource user password
-kafka::KAFKA token <API KEY>
-setdbparms::truststore dummy passrods
-
