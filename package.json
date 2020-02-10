@@ -11,9 +11,8 @@
     "watch:styles": "postcss -w -u postcss-import -u postcss-nested -u postcss-cssnext -u cssnano -o assets/css/main.css src/css/main.css",
     "watch:scripts": "rollup -c --watch",
     "watch:livereload": "livereload _site/",
+    "test": "npm version",
     "dev": ".bin/develop",
-    "test": "npm run --silent test:eslint",
-    "test:eslint": "eslint src/",
     "commit": "git-cz",
     "commitmsg": "validate-commit-msg",
     "deploy": "gatsby build --prefix-paths && gh-pages -d public"

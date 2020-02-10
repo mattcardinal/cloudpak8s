@@ -1,7 +1,6 @@
 language: node_js
 before_script:
-  - npm install -g gh-pages
-  - npm install
+  - npm install gh-pages --save-dev
 node_js:
   - "10"
 deploy:
