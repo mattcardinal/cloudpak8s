@@ -3,6 +3,7 @@ before_script:
   - npm install gh-pages --save-dev
   - git config --global user.name "vbudi000"
   - git config --global user.email "vbudi@yahoo.com"
+  - echo -e "machine github.com\n  login $CI_USER_TOKEN" > ~/.netrc
 node_js:
   - "10"
 deploy:

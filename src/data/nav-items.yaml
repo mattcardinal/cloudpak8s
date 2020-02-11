@@ -1,184 +1,184 @@
 - title: Home
   pages:
-    - path: /index/
+    - path: /index
 - title: CloudPak for Integration
   pages:
     - title: Introduction
-      path: content/integration/introduction/
+      path: /content/integration/introduction
       weight: 100
     - title: Pre-requisites
-      path: content/integration/pre-reqs/
+      path: /content/integration/pre-reqs
       weight: 200
     - title: cp4i-on-roks
-      path: content/integration/roks/
+      path: /content/integration/roks
       weight: 300
     - title: onprem-online
-      path: content/integration/onprem-online/
+      path: /content/integration/onprem-online
       weight: 400
     - title: onprem-offline
-      path: content/integration/onprem-offline/
+      path: /content/integration/onprem-offline
       weight: 400
     - title: deploy-fast-file-transfer
-      path: content/integration/deploy-fast-file-transfer/
+      path: /content/integration/deploy-fast-file-transfer
       weight: 600
     - title: deploy-eventstreams
-      path: content/integration/deploy-eventstreams/
+      path: /content/integration/deploy-eventstreams
       weight: 600
     - title: deploy-integration
-      path: content/integration/deploy-integration/
+      path: /content/integration/deploy-integration
       weight: 600
     - title: deploy-tracing
-      path: content/integration/deploy-tracing/
+      path: /content/integration/deploy-tracing
       weight: 600
     - title: deploy-secure-gateway
-      path: content/integration/deploy-secure-gateway/
+      path: /content/integration/deploy-secure-gateway
       weight: 600
     - title: deploy-api-mgmt
-      path: content/integration/deploy-api-mgmt/
+      path: /content/integration/deploy-api-mgmt
       weight: 600
     - title: deploy-asset-repo
-      path: content/integration/deploy-asset-repo/
+      path: /content/integration/deploy-asset-repo
       weight: 600
     - title: Creating a scenario
-      path: content/integration/scenario/
+      path: /content/integration/scenario
       weight: 700
     - title: deploy-queue-manager
-      path: content/integration/deploy-queue-manager/
+      path: /content/integration/deploy-queue-manager
       weight: 800
     - title: Post-installation tasks
-      path: content/integration/post-install/
+      path: /content/integration/post-install
       weight: 900
 - title: CloudPak for MultiCloud
   pages:
     - title: Introduction
-      path: content/mcm/cp4mcm_introduction/
+      path: /content/mcm/cp4mcm_introduction
       weight: 100
     - title:  Requirements
-      path: content/mcm/cp4mcm_requirements/
+      path: /content/mcm/cp4mcm_requirements
       weight: 200
     - title: "MCM - Installation Guide"
-      path: content/mcm/cp4mcm_mcm_install/
+      path: /content/mcm/cp4mcm_mcm_install
       weight: 300
     - title: MCM - Importing a Kubernetes Cluster
-      path: content/mcm/cp4mcm_cluster_onboarding/
+      path: /content/mcm/cp4mcm_cluster_onboarding
       weight: 305
     - title: MCM - Concepts
-      path: content/mcm/cp4mcm_mcm_concepts/
+      path: /content/mcm/cp4mcm_mcm_concepts
       weight: 310
     - title: MCM - Sample Bookinfo
-      path: content/mcm/cp4mcm_mcm_bookinfo/
+      path: /content/mcm/cp4mcm_mcm_bookinfo
       weight: 320
     - title: MCM - Governance and Risk
-      path: content/mcm/cp4mcm_governance_risk/
+      path: /content/mcm/cp4mcm_governance_risk
       weight: 340
     - title: "ICAM - Installation Guide"
-      path: content/mcm/cp4mcm_icam_install/
+      path: /content/mcm/cp4mcm_icam_install
       weight: 400
     - title: "ICAM - Post Install Setup"
-      path: content/mcm/cp4mcm_icam_post_server_install/
+      path: /content/mcm/cp4mcm_icam_post_server_install
       weight: 410
     - title: "ICAM - Monitoring Bookinfo"
-      path: content/mcm/cp4mcm_monitoring_bookinfo/
+      path: /content/mcm/cp4mcm_monitoring_bookinfo
       weight: 420
     - title: "CAM - Installation Guide"
-      path: content/mcm/cp4mcm_cam_install/
+      path: /content/mcm/cp4mcm_cam_install
       weight: 500
     - title: "Troubleshooting"
-      path: content/mcm/cp4mcm_troubleshooting/
+      path: /content/mcm/cp4mcm_troubleshooting
       weight: 700
 - title: CloudPak for Automation
   pages:
     - title: Introduction
-      path: content/automation/introduction/
+      path: /content/automation/introduction
       weight: 100
     - title: Prerequisites
-      path: content/automation/pre-requisites/
+      path: /content/automation/pre-requisites
       weight: 200
     - title: Shared services
-      path: content/automation/shared-services/
+      path: /content/automation/shared-services
       weight: 300
     - title: Install Cloud Pak for Automation Operator
-      path: content/automation/install-operator/
+      path: /content/automation/install-operator
       weight: 400
     - title: Install IBM User Management Service
-      path: content/automation/install-ums/
+      path: /content/automation/install-ums
       weight: 500
     - title: Install IBM Business Automation Studio
-      path: content/automation/install-bas/
+      path: /content/automation/install-bas
       weight: 600
     - title: Install IBM Business Automation Insights
-      path: content/automation/install-bai/
+      path: /content/automation/install-bai
       weight: 700
     - title: Install IBM Business Automation Navigator
-      path: content/automation/install-ban/
+      path: /content/automation/install-ban
       weight: 800
     - title: Install IBM FileNet Content Manager
-      path: content/automation/install-ecm/
+      path: /content/automation/install-ecm
       weight: 900
     - title: Install IBM Automation Workstream Services 
-      path: content/automation/install-aws/
+      path: /content/automation/install-aws
       weight: 1000
     - title: Install IBM Automation Content Analyzer 
-      path: content/automation/install-aca/
+      path: /content/automation/install-aca
       weight: 1100
     - title: Install IBM Operational Decision Manager
-      path: content/automation/install-odm/
+      path: /content/automation/install-odm
       weight: 1200
     - title: Install IBM Automation Digital Worker
-      path: content/automation/install-adw/
+      path: /content/automation/install-adw
       weight: 1300
 - title: CloudPak for Data
   pages:
     - title: Introduction
-      path: content/data/introduction/
+      path: /content/data/introduction
       weight: 100
     - title: Prerequisites
-      path: content/data/Prerequisites/
+      path: /content/data/Prerequisites
       weight: 200
     - title: Install Cloud Pak for Data on Red Hat OpenShift on IBM Cloud
-      path: content/data/install-managed-OCP/
+      path: /content/data/install-managed-OCP
       weight: 300
     - title: Install CPD on Managed OCP in IBM Cloud
-      path: content/data/install-CPD-on-managed-OCP/
+      path: /content/data/install-CPD-on-managed-OCP
       weight: 400
     - title: Install Openshift on Vmware
-      path: content/data/install-Openshift-On-Vmware/
+      path: /content/data/install-Openshift-On-Vmware
       weight: 500
     - title: Install Cloud Pak for Data on Vmware OpenShift
-      path: content/data/install-CPD-on-Openshift-on-Vmware/
+      path: /content/data/install-CPD-on-Openshift-on-Vmware
       weight: 600
     - title: Install Add-Ons on Red Hat OpenShift on IBM Cloud
-      path: content/data/install-add-on/
+      path: /content/data/install-add-on
       weight: 700
     - title: Install Add-Ons on Vmware OCP environment
-      path: content/data/install-add-on-vmware/
+      path: /content/data/install-add-on-vmware
       weight: 800
     - title: Very Cool Clickthru Demo
-      path: content/data/cooldemo/
+      path: /content/data/cooldemo
       weight: 900
 - title: CloudPak for Application
   pages:
     - title:  Introduction
-      path: content/apps/cp4a_overview/
+      path: /content/apps/cp4a_overview
       weight: 100
     - title: Prerequisites
-      path: content/apps/cp4a-prereq/
+      path: /content/apps/cp4a-prereq
       weight: 150
     - title: Install on OpenShift Container Platform
-      path: content/apps/cp4a_installation/
+      path: /content/apps/cp4a_installation
       weight: 200
     - title: Install Developer Tools (Mac OSx)
-      path: content/apps/cp4a_install_dev_tools_mac/
+      path: /content/apps/cp4a_install_dev_tools_mac
       weight: 400
     - title: Install Developer Tools (Windows)
-      path: content/apps/cp4a_install_dev_tools_win/
+      path: /content/apps/cp4a_install_dev_tools_win
       weight: 450
     - title: Modernize existing applications
-      path: content/apps/cp4a_use_case_app_mod/
+      path: /content/apps/cp4a_use_case_app_mod
       weight: 500
     - title: Building new applications
-      path: content/apps/cp4a_use_case_cloud_native/
+      path: /content/apps/cp4a_use_case_cloud_native
       weight: 600
     - title:  "Learn more:  Next steps"
-      path: content/apps/cp4a_learn_more/
+      path: /content/apps/cp4a_learn_more
       weight: 700

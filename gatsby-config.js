@@ -4,7 +4,7 @@ module.exports = {
     description: 'A documentation of CloudPak implementation',
     keywords: 'cloudpak, openshift, ocp',
   },
-  pathPrefix: `/cloudpak8s`,
+  pathPrefix: `/cloudpak8s/`,
   plugins: [
     {
       resolve: 'gatsby-plugin-manifest',
@@ -23,7 +23,7 @@ module.exports = {
         isSearchEnabled: true,
         repository: {
           baseUrl: 'https://github.com/vbudi000/cloudpak8s',
-          subDirectory: '',
+          subDirectory: '/',
         },
       },
     },
