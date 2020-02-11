@@ -1,6 +1,8 @@
 language: node_js
 before_script:
   - npm install gh-pages --save-dev
+  - git config --global user.name "vbudi000"
+  - git config --global user.email "vbudi@yahoo.com"
 node_js:
   - "10"
 deploy:
